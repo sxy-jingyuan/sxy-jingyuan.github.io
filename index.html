@@ -1,7 +1,19 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>斗奋兄弟</p>
-</body>
-</html>
+---
+layout: main
+---
+
+{% for post in paginator.posts %}
+  <div class="chapter">
+    <a href="{{post.url | prepend: site.baseurl}}">
+      {% if post.img %}
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+      {% endif %}
+    </a>
+    <a href="{{post.url | prepend: site.baseurl}}">
+      <div class="chapter_inner">
+        <p class="chapter_number">{{post.date | date: '%Y, %b %d'}}</p>
+        <h3 class="chapter_title">{{post.title}}</h3>
+      </div>
+    </a>
+  </div>
+{% endfor %}

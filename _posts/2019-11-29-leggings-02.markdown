@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Texas: Grand Canyon"
+title: "Megacme:Leggings Of Design 02"
 img: legging-megacme-2.jpg # Add image post (optional)
 img_1: legging-megacme-2-1.jpg # Add image post (optional)
 img_2: legging-megacme-2-2.jpg # Add image post (optional)

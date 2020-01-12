@@ -16,10 +16,10 @@ banner-desc: # add banner description
 # Author settings
 author-pic: face.jpg # Company Logo
 author-name: Ivan # your name
-about-author: # about author
+about-author: Our Company is a professional manufacturer of seamless sport wear, fashion yoga and fitness products.Contact me！# about author
 email: ivan@jingyuantextile.cn # your email
 phone: +86 180 6707 8705 # your pnone number
-#website: https://url.cn/5VsdbHR # you website
+website: https://url.cn/5VsdbHR # you website
 
 # Social link
 google_url:    # add url link

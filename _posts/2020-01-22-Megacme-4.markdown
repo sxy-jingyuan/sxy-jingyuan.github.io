@@ -1,0 +1,12 @@
+﻿---
+layout: post_1
+title: "Megacme:Design 04"
+img: set4-1.jpg # Add image post (optional)
+img_1: set4-2.jpg # Add image post (optional)
+img_2: set4-3.jpg # Add image post (optional)
+img_2: set4-4.jpg # Add image post (optional)
+date: 2020-01-24 16:40:04 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: [Leggings, Seamless,Ombre]
+---
+
